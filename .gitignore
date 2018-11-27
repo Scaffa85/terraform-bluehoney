@@ -1,3 +1,4 @@
+*.swp
 .envrc
 terraform.tfstate.backup
 terraform.tfstate
